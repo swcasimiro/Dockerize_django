@@ -7,3 +7,7 @@
 ### 1. Склонируйте репозиторий
 ```bash
 git clone https://github.com/swcasimiro/Dockerize_django.git
+```
+
+### 2. Инструкция.
+Этот проект для ХАБР. Вся инструкция тут - <a href="https://habr.com/ru/articles/953978/">тык</a>
